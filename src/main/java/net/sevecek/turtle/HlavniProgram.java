@@ -9,6 +9,7 @@ public class HlavniProgram {
 
         zofka = new Turtle();
         zofka.move(50);
+        zofka.getPenColor();
     }
 
 }
